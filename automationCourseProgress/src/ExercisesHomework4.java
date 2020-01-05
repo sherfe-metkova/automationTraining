@@ -1,3 +1,5 @@
+package Exercises;
+
 public class ExercisesHomework4 {
     public static void main(String[] args) {
         reverseString("EVIL STAR");
